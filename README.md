@@ -66,10 +66,4 @@ URL-SNIPPER is a URL shortener project built with Python, Django, and MySQL.
 - The shortened URL will be displayed on the page. Users can copy and share this URL.
 - When a user visits the shortened URL, they will be redirected to the original URL.
 
-## Contributing
-
-Contributions are welcome! Please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+##
